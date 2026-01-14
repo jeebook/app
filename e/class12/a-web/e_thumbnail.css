@@ -225,15 +225,15 @@ img {
   display: block;
 }
 /*.bg_img_tumb_cl_show{
-  background-image: url("https://ayush348rtg.github.io/doc/tele/source/cover/physicss-N-covr-11.png");}*/
-.note_tumb_physics {background-image: url("https://c41c.github.io/app/e/file/svg/physicss-N-covr-12.png");}
-.note_tumb_chemistry {background-image: url("https://c41c.github.io/app/e/file/svg/chemistry-N-covr-12.png");}
-.note_tumb_biology {background-image: url("https://c41c.github.io/app/e/file/svg/bio-N-covr-12.png");}
-.note_tumb_maths {background-image: url("https://c41c.github.io/app/e/file/svg/maths-N-covr-12.png");}
+  https://jeebook.github.io/app/e/file/svg/bio-N-covr-12.png*/
+.note_tumb_physics {background-image: url("https://jeebook.github.io/app/e/file/svg/physicss-N-covr-12.png");}
+.note_tumb_chemistry {background-image: url("https://jeebook.github.io/app/e/file/svg/chemistry-N-covr-12.png");}
+.note_tumb_biology {background-image: url("https://jeebook.github.io/app/e/file/svg/bio-N-covr-12.png");}
+.note_tumb_maths {background-image: url("https://jeebook.github.io/app/e/file/svg/maths-N-covr-12.png");}
 
-.formula_tumb_physics {background-image: url("https://c41c.github.io/app/e/file/svg/physicss-FS-covr-12.png.png");}
-.formula_tumb_chemistry {background-image: url("https://c41c.github.io/app/e/file/svg/chemistry-FS-covr-12.png");}
-.formula_tumb_maths {background-image: url("https://c41c.github.io/app/e/file/svg/maths-FS-covr-12.png");}
+.formula_tumb_physics {background-image: url("https://jeebook.github.io/app/e/file/svg/physicss-FS-covr-12.png.png");}
+.formula_tumb_chemistry {background-image: url("https://jeebook.github.io/app/e/file/svg/chemistry-FS-covr-12.png");}
+.formula_tumb_maths {background-image: url("https://jeebook.github.io/app/e/file/svg/maths-FS-covr-12.png");}
 /* Reveal content + shadows when show_card is active */
 .show_card .thumb_title_up,
 .show_card .thumb_subject,

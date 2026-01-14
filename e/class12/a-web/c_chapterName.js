@@ -38,7 +38,7 @@ document.querySelectorAll(".chapName_chapter_box").forEach(box => {
  const chap_subject = box.closest(".chapName_container").getAttribute("data_subject"); // 👈
 
 const chap_key = findKeyForCode(chapName_code);
-let web_url = `https://c41c.github.io/app/e/class12/${chap_subject}/?inc=${incript_chap_data}`;
+let web_url = `https://jeebook.github.io/app/e/class12/${chap_subject}/?inc=${incript_chap_data}`;
 // Define the list of codes that should skip lock/time logic
 const specialCodes = ["note12p1", "note12c1", "formula12m1"];
 if (specialCodes.includes(chapName_code)) {
